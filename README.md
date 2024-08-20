@@ -1,2 +1,2 @@
-# Linguagem-De-Prograna-o
+# Linguagem-De-Progranacao
 Atividades de Linguagem de Programação 
